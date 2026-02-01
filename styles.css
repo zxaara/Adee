@@ -12,7 +12,7 @@ body {
     text-align: center;
     margin: 0;
     padding: 75px 0;
-    background: linear-gradient(#ffffff, #db4e4e);
+    background: linear-gradient(#ffffff, #df9696);
     font-family: "DynaPuff", cursive;
 }
 
@@ -58,12 +58,12 @@ button:hover {
 #yes-btn {
     transform-origin: center top;
     color:white;
-    background-color:#76c381;
+    background-color:#3bcd51;
 }
 
 #no-btn {
     color:white;
-    background-color: #d48888; 
+    background-color: #db4e4e; 
 }
 
 @media (max-width: 1150px) {
