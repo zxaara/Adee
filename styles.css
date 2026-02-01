@@ -58,12 +58,12 @@ button:hover {
 #yes-btn {
     transform-origin: center top;
     color:white;
-    background-color: lightseagreen;
+    background-color:#76c381;
 }
 
 #no-btn {
     color:white;
-    background-color: #dc7e7e; 
+    background-color: #d48888; 
 }
 
 @media (max-width: 1150px) {
