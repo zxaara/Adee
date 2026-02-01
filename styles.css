@@ -12,20 +12,8 @@ body {
     text-align: center;
     margin: 0;
     padding: 75px 0;
-    background: linear-gradient(#ffffff, #f9d6d6);
-    font-family: 'Steph', sans-serif;
-}
-
-@font-face {
-    font-family: "Steph";
-    src: url("assets/fonts/steph-font.ttf");
-    font-weight: normal;
-}
-
-@font-face {
-    font-family: "Steph";
-    src: url("assets/fonts/steph-font-bold.ttf");
-    font-weight: bold;
+    background: linear-gradient(#ffffff, #db4e4e);
+    font-family: "DynaPuff", cursive;
 }
 
 .container {
@@ -70,7 +58,7 @@ button:hover {
 #yes-btn {
     transform-origin: center top;
     color:white;
-    background-color: #57915e;
+    background-color: lightseagreen;
 }
 
 #no-btn {
